@@ -13,9 +13,8 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/urfave/cli v1.22.9
 	github.com/xanzy/go-gitlab v0.69.0
-	golang.org/x/net v0.0.0-20220708220712-1185a9018129 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20220718184931-c8730f7fcb92
-	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
 	golang.org/x/time v0.0.0-20220609170525-579cf78fd858 // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/yaml.v2 v2.4.0
